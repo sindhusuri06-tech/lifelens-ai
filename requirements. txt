@@ -1,1 +1,6 @@
-
+flask
+numpy
+pandas
+tensorflow
+scikit-learn
+sqlite3
